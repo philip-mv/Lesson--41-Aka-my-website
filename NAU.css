@@ -1,7 +1,8 @@
 body {
     margin: 7px;
     font-family: fantasy;
-    background-image: url('Image\ 99.avif');
+    background-color: rgb(9, 10, 1);
+
     background-repeat: no-repeat;
     background-size: cover;
     color: wheat;
@@ -47,4 +48,7 @@ p {
     text-align: left;
     margin-right: 300px;
     margin-left: 22px;
+}
+a {
+    font-size: 84px;
 }

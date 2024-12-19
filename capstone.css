@@ -5,6 +5,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     text-shadow: 0 0 3px #041301, 0 0 2px #020207;
+    text-transform: left;
 }
 .topnav {
     overflow: hidden;
@@ -32,4 +33,13 @@ h1 {
     font-family:;
     color: wheat;
 text-shadow: 0 0 9px #041301, 0 0 10px #020207;
+text-align: left;
+
+}
+p {
+    color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    font-size: 21px;
+    text-align: left;
+    margin-left: 22px;
 }
