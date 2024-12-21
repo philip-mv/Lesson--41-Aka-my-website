@@ -5,7 +5,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     text-shadow: 0 0 3px #041301, 0 0 2px #020207;
-    text-transform: left;
+    
 }
 .topnav {
     overflow: hidden;
@@ -42,4 +42,15 @@ p {
     font-size: 21px;
     text-align: left;
     margin-left: 22px
+
+}
+hr{
+    color: wheat;
+    background-color: wheat;
+    height: 9px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+
 }
